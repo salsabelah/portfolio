@@ -5,7 +5,7 @@ import { Mail, MapPin, Phone, Download } from 'lucide-react';
 const Contact = () => {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/salsabelah-cv.pdf';
+    link.href = './salsabelah-cv.pdf';
     link.download = 'Salsabelah_Anabtawi_CV.pdf';
     document.body.appendChild(link);
     link.click();
