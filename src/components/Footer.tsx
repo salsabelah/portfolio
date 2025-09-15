@@ -18,7 +18,7 @@ const Footer = () => {
               and artistic storytelling.
             </p>
             <div className="flex space-x-4">
-              <a href="https://www.linkedin.com/in/salsabelah-anabtawi" className="bg-slate-800 p-2 hover:bg-slate-700 transition-colors duration-300">
+              <a href="https://www.linkedin.com/in/salsabelah-anabtawi" target="_blank" className="bg-slate-800 p-2 hover:bg-slate-700 transition-colors duration-300">
                 <Linkedin size={16} />
               </a>
             </div>
