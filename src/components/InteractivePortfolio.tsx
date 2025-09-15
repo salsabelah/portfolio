@@ -13,17 +13,17 @@ const InteractivePortfolio = () => {
       title: "Mobarmij",
       role: "Brand Identity & Visual Design",
       description: "Developed a comprehensive brand identity for a freelance mobile developer, addressing the challenge of creating a modern, trustworthy visual system that communicates technical expertise and creativity. The solution features pixel-style typography, vibrant colors, and modular logo design inspired by coding structures, reflecting clarity in both code and communication. This identity successfully positions the developer as forward-thinking and professional while maintaining recognizability across all digital platforms.",
-      mainImage: "/lovable-uploads/a0bafa56-1bf5-4af8-b144-af2a0a152716.png", // Apple Watch (Mobarmij)
+      mainImage: "./lovable-uploads/a0bafa56-1bf5-4af8-b144-af2a0a152716.png", // Apple Watch (Mobarmij)
       color: "from-purple-500 to-pink-500",
       projectImages: [
-        "/lovable-uploads/508d37d6-8c3a-460b-bbbe-c041dad354ba.png",
-        "/lovable-uploads/7617fb6e-02ac-4907-8ffd-d7985200e06d.png",
-        "/lovable-uploads/52487de8-1e94-40d0-bbf0-0cc7dbda63f2.png",
-        "/lovable-uploads/8433a5c5-68d2-48f0-a8af-1fa1c79917e0.png",
-        "/lovable-uploads/efc93488-a9ad-4c06-b721-e6d61b4691d4.png",
-        "/lovable-uploads/b54ae3fd-d1c8-44e6-a122-1dbbc9510396.png",
-        "/lovable-uploads/a0bafa56-1bf5-4af8-b144-af2a0a152716.png",
-        "/lovable-uploads/2efcaecd-b4b1-4ebf-bfc7-b5cdd38fe45c.png"
+        "./lovable-uploads/508d37d6-8c3a-460b-bbbe-c041dad354ba.png",
+        "./lovable-uploads/7617fb6e-02ac-4907-8ffd-d7985200e06d.png",
+        "./lovable-uploads/52487de8-1e94-40d0-bbf0-0cc7dbda63f2.png",
+        "./lovable-uploads/8433a5c5-68d2-48f0-a8af-1fa1c79917e0.png",
+        "./lovable-uploads/efc93488-a9ad-4c06-b721-e6d61b4691d4.png",
+        "./lovable-uploads/b54ae3fd-d1c8-44e6-a122-1dbbc9510396.png",
+        "./lovable-uploads/a0bafa56-1bf5-4af8-b144-af2a0a152716.png",
+        "./lovable-uploads/2efcaecd-b4b1-4ebf-bfc7-b5cdd38fe45c.png"
       ],
       tags: ["Brand Identity", "Logo Design", "Typography"],
       backgroundColor: "bg-black/95"
@@ -33,18 +33,18 @@ const InteractivePortfolio = () => {
       title: "Miles & Flies",
       role: "Brand Identity & Travel Design",
       description: "Created a complete visual identity system for a youth-focused travel agency, addressing the challenge of appealing to young travelers while maintaining professional credibility. The solution features vibrant colors, clean typography, and playful illustrations that capture the excitement of travel while building trust. The carefully balanced approach successfully positions the agency as both adventurous and reliable, encouraging exploration while establishing the credibility needed for a trusted travel service.",
-      mainImage: "/lovable-uploads/c5ed3b47-117e-4159-8f95-408420a990e4.png", // Miles & Flies logo
+      mainImage: "./lovable-uploads/c5ed3b47-117e-4159-8f95-408420a990e4.png", // Miles & Flies logo
       color: "from-blue-500 to-orange-500",
       projectImages: [
-        "/lovable-uploads/c5ed3b47-117e-4159-8f95-408420a990e4.png",
-        "/lovable-uploads/e13a15de-c1c2-40bc-ae21-67fbeb794ec9.png",
-        "/lovable-uploads/93ff1fc4-caa3-4896-bca5-f34be1ff90d5.png",
-        "/lovable-uploads/b92a2235-b0d1-43b2-8e66-390bcb22653d.png",
-        "/lovable-uploads/716a2495-6e67-47c8-b8a7-8e1ec3c262f0.png",
-        "/lovable-uploads/71d4c6de-939f-41dd-949b-84efaf6a1a04.png",
-        "/lovable-uploads/3252ca12-d952-4783-87b0-9d542d817ead.png",
-        "/lovable-uploads/c4ce995c-0ee8-46a5-b084-e824825ca2fd.png",
-        "/lovable-uploads/51e163da-6d14-4a1a-b9bd-cc986e6505a1.png"
+        "./lovable-uploads/c5ed3b47-117e-4159-8f95-408420a990e4.png",
+        "./lovable-uploads/e13a15de-c1c2-40bc-ae21-67fbeb794ec9.png",
+        "./lovable-uploads/93ff1fc4-caa3-4896-bca5-f34be1ff90d5.png",
+        "./lovable-uploads/b92a2235-b0d1-43b2-8e66-390bcb22653d.png",
+        "./lovable-uploads/716a2495-6e67-47c8-b8a7-8e1ec3c262f0.png",
+        "./lovable-uploads/71d4c6de-939f-41dd-949b-84efaf6a1a04.png",
+        "./lovable-uploads/3252ca12-d952-4783-87b0-9d542d817ead.png",
+        "./lovable-uploads/c4ce995c-0ee8-46a5-b084-e824825ca2fd.png",
+        "./lovable-uploads/51e163da-6d14-4a1a-b9bd-cc986e6505a1.png"
       ],
       tags: ["Brand Identity", "Travel Design", "Visual Identity"],
       backgroundColor: "bg-slate-900"
@@ -54,12 +54,12 @@ const InteractivePortfolio = () => {
       title: "Pomegranate Pattern Collection",
       role: "Pattern Design & Textile",
       description: "Developed vibrant pomegranate pattern designs that celebrate Palestinian cultural heritage, addressing the need to preserve traditional motifs through contemporary applications. The solution features hand-painted illustrations that represent abundance and prosperity, successfully applied across various mediums including textiles, stationery, and prints. This pattern collection connects cultural traditions with modern design sensibilities while making meaningful symbols accessible to diverse audiences.",
-      mainImage: "/lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png", // Big pomegranate pattern
+      mainImage: "./lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png", // Big pomegranate pattern
       color: "from-red-500 to-pink-600",
       projectImages: [
-        "/lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png",
-        "/lovable-uploads/3384f53c-b053-4037-b22b-5039002b4493.png",
-        "/lovable-uploads/18166979-bf05-46a5-805b-88001a213c07.png"
+        "./lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png",
+        "./lovable-uploads/3384f53c-b053-4037-b22b-5039002b4493.png",
+        "./lovable-uploads/18166979-bf05-46a5-805b-88001a213c07.png"
       ],
       tags: ["Pattern Design", "Textile Design", "Illustration"],
       backgroundColor: "bg-red-900"
@@ -69,12 +69,12 @@ const InteractivePortfolio = () => {
       title: "Cactus Pattern Collection",
       role: "Pattern Design & Product Design",
       description: "Created playful cactus pattern designs that symbolize resilience and endurance in Palestinian culture, addressing the challenge of translating cultural meanings into contemporary design. The solution features organic shapes and earthy tones that reflect the Palestinian landscape, successfully applied across fashion, home decor, and packaging applications. These patterns effectively communicate themes of strength and persistence while appealing to modern aesthetic sensibilities.",
-      mainImage: "/lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png",
+      mainImage: "./lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png",
       color: "from-green-500 to-orange-600",
       projectImages: [
-        "/lovable-uploads/07983918-2be7-4c8c-bc3c-60ecb2652e8f.png",
-        "/lovable-uploads/8f16d63e-5feb-44b5-8abb-d9a5ac313107.png",
-        "/lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png"
+        "./lovable-uploads/07983918-2be7-4c8c-bc3c-60ecb2652e8f.png",
+        "./lovable-uploads/8f16d63e-5feb-44b5-8abb-d9a5ac313107.png",
+        "./lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png"
       ],
       tags: ["Pattern Design", "Product Design", "Fashion"],
       backgroundColor: "bg-green-800"
@@ -84,12 +84,12 @@ const InteractivePortfolio = () => {
       title: "Fig Pattern Collection",
       role: "Pattern Design & Print Design",
       description: "Designed elegant fig patterns inspired by the sweetness and richness of Palestinian heritage, addressing the need to celebrate cultural symbols through sophisticated design. The solution features rich burgundy and green tones that reflect the natural beauty of Palestinian landscapes, successfully showcased across print materials, posters, and accessories. These patterns effectively bridge traditional cultural significance with contemporary aesthetic appeal.",
-      mainImage: "/lovable-uploads/836dc985-c302-4548-8954-c21f06996c26.png",
+      mainImage: "./lovable-uploads/836dc985-c302-4548-8954-c21f06996c26.png",
       color: "from-purple-500 to-red-600",
       projectImages: [
-        "/lovable-uploads/bc83e371-0b3d-4d9f-bc81-6dc58827598d.png",
-        "/lovable-uploads/07314046-7b6b-4b01-ae73-6d01c253b030.png",
-        "/lovable-uploads/836dc985-c302-4548-8954-c21f06996c26.png"
+        "./lovable-uploads/bc83e371-0b3d-4d9f-bc81-6dc58827598d.png",
+        "./lovable-uploads/07314046-7b6b-4b01-ae73-6d01c253b030.png",
+        "./lovable-uploads/836dc985-c302-4548-8954-c21f06996c26.png"
       ],
       tags: ["Pattern Design", "Print Design", "Accessories"],
       backgroundColor: "bg-purple-900"
@@ -99,22 +99,22 @@ const InteractivePortfolio = () => {
       title: "Canaany",
       role: "Brand Illustration & T-shirt Design",
       description: "Developed a complete visual identity and clothing line for Canaany, a Palestinian musician's brand, addressing the challenge of translating musical heritage into compelling visual language. The solution features illustrations inspired by traditional Arabic and Palestinian songs, incorporating poetic lyrics that reflect themes of resilience, heritage, and cultural identity. This comprehensive approach successfully created a visual language that authentically represents Palestinian musical heritage while appealing to contemporary audiences, establishing Canaany as a meaningful cultural brand.",
-      mainImage: "/lovable-uploads/bcdb17ec-88fc-4d45-a0b1-89cf4478d3fa.png", // Canaany logo
+      mainImage: "./lovable-uploads/bcdb17ec-88fc-4d45-a0b1-89cf4478d3fa.png", // Canaany logo
       color: "from-amber-900 to-stone-900",
       projectImages: [
-        "/lovable-uploads/bcdb17ec-88fc-4d45-a0b1-89cf4478d3fa.png",
-        "/lovable-uploads/ab4cded8-5ecf-4bae-8ec1-933716c0a77a.png",
-        "/lovable-uploads/3b346664-6712-488a-8237-a2e0ebf94eba.png",
-        "/lovable-uploads/540c85d7-94ce-4679-acb4-017753b327f8.png",
-        "/lovable-uploads/15c00b08-e2ef-4437-b57c-702923deb5f9.png",
-        "/lovable-uploads/f4dd8d9e-d240-4099-ab55-d67fd275f9ed.png",
-        "/lovable-uploads/f61f913c-0898-4672-9630-8fbdeb86380f.png",
-        "/lovable-uploads/3bc6882e-deca-4110-80c1-d5985bcf83c3.png",
-        "/lovable-uploads/dfffe914-4ae6-47eb-b5ce-73a4ef6a90d1.png",
-        "/lovable-uploads/f66bd117-4045-4580-8147-e4fa2e3db50e.png",
-        "/lovable-uploads/9abe607b-bc4e-454c-88cb-a65b0fda5acd.png",
-        "/lovable-uploads/1a0acd73-1177-47ed-9006-8c51eaab69d2.png",
-        "/lovable-uploads/27718fed-c972-48e5-9e4d-96d9691aebd2.png"
+        "./lovable-uploads/bcdb17ec-88fc-4d45-a0b1-89cf4478d3fa.png",
+        "./lovable-uploads/ab4cded8-5ecf-4bae-8ec1-933716c0a77a.png",
+        "./lovable-uploads/3b346664-6712-488a-8237-a2e0ebf94eba.png",
+        "./lovable-uploads/540c85d7-94ce-4679-acb4-017753b327f8.png",
+        "./lovable-uploads/15c00b08-e2ef-4437-b57c-702923deb5f9.png",
+        "./lovable-uploads/f4dd8d9e-d240-4099-ab55-d67fd275f9ed.png",
+        "./lovable-uploads/f61f913c-0898-4672-9630-8fbdeb86380f.png",
+        "./lovable-uploads/3bc6882e-deca-4110-80c1-d5985bcf83c3.png",
+        "./lovable-uploads/dfffe914-4ae6-47eb-b5ce-73a4ef6a90d1.png",
+        "./lovable-uploads/f66bd117-4045-4580-8147-e4fa2e3db50e.png",
+        "./lovable-uploads/9abe607b-bc4e-454c-88cb-a65b0fda5acd.png",
+        "./lovable-uploads/1a0acd73-1177-47ed-9006-8c51eaab69d2.png",
+        "./lovable-uploads/27718fed-c972-48e5-9e4d-96d9691aebd2.png"
       ],
       tags: ["Brand Identity", "Illustration", "T-shirt Design", "Cultural Design"],
       backgroundColor: "#35312e"

@@ -44,31 +44,31 @@ const DigitalArt = () => {
     role: "Pattern Design & Cultural Illustration",
     description: "Comprehensive collection of traditional Palestinian patterns reimagined for modern applications.",
     tools: ["Procreate", "Adobe Photoshop"],
-    mainImage: "/lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png",
+    mainImage: "./lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png",
     // Big pomegranate pattern
     projectImages: [
     // Pomegranate Pattern Section
-    "/lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png", "/lovable-uploads/b992390c-8e80-4662-8e4b-4535a782a84b.png", "/lovable-uploads/3384f53c-b053-4037-b22b-5039002b4493.png", "/lovable-uploads/18166979-bf05-46a5-805b-88001a213c07.png",
+    "./lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png", "./lovable-uploads/b992390c-8e80-4662-8e4b-4535a782a84b.png", "./lovable-uploads/3384f53c-b053-4037-b22b-5039002b4493.png", "./lovable-uploads/18166979-bf05-46a5-805b-88001a213c07.png",
     // Cactus Pattern Section
-    "/lovable-uploads/07983918-2be7-4c8c-bc3c-60ecb2652e8f.png", "/lovable-uploads/3560b782-4c04-41be-a709-eda941b5794e.png", "/lovable-uploads/8f16d63e-5feb-44b5-8abb-d9a5ac313107.png", "/lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png",
+    "./lovable-uploads/07983918-2be7-4c8c-bc3c-60ecb2652e8f.png", "./lovable-uploads/3560b782-4c04-41be-a709-eda941b5794e.png", "./lovable-uploads/8f16d63e-5feb-44b5-8abb-d9a5ac313107.png", "./lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png",
     // Fig Pattern Section
-    "/lovable-uploads/20078dc1-20ff-4a74-b6d5-de2f15950b84.png", "/lovable-uploads/11e7bbd9-e2a8-4cc9-860d-977f5334de62.png", "/lovable-uploads/efdd933e-cb78-4801-8a08-71719358072d.png", "/lovable-uploads/3350d8b6-cf16-4ca1-a753-4bb27d847a99.png"],
+    "./lovable-uploads/20078dc1-20ff-4a74-b6d5-de2f15950b84.png", "./lovable-uploads/11e7bbd9-e2a8-4cc9-860d-977f5334de62.png", "./lovable-uploads/efdd933e-cb78-4801-8a08-71719358072d.png", "./lovable-uploads/3350d8b6-cf16-4ca1-a753-4bb27d847a99.png"],
     tags: ["Pattern Design", "Cultural Heritage", "Textile Design"],
     patternSections: {
       pomegranate: {
         title: "Pomegranate Pattern",
         description: "Traditional pomegranate patterns celebrating fertility and abundance, each seed a symbol of life's countless possibilities and infinite blessings.",
-        images: ["/lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png", "/lovable-uploads/b992390c-8e80-4662-8e4b-4535a782a84b.png", "/lovable-uploads/3384f53c-b053-4037-b22b-5039002b4493.png", "/lovable-uploads/18166979-bf05-46a5-805b-88001a213c07.png"]
+        images: ["./lovable-uploads/36359741-0a7e-4923-9455-b58942d44a13.png", "./lovable-uploads/b992390c-8e80-4662-8e4b-4535a782a84b.png", "./lovable-uploads/3384f53c-b053-4037-b22b-5039002b4493.png", "./lovable-uploads/18166979-bf05-46a5-805b-88001a213c07.png"]
       },
       cactus: {
         title: "Cactus Pattern",
         description: "Contemporary cactus patterns embodying steadfastness, resilience, and patience—enduring symbols of survival against overwhelming odds.",
-        images: ["/lovable-uploads/07983918-2be7-4c8c-bc3c-60ecb2652e8f.png", "/lovable-uploads/3560b782-4c04-41be-a709-eda941b5794e.png", "/lovable-uploads/8f16d63e-5feb-44b5-8abb-d9a5ac313107.png", "/lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png"]
+        images: ["./lovable-uploads/07983918-2be7-4c8c-bc3c-60ecb2652e8f.png", "./lovable-uploads/3560b782-4c04-41be-a709-eda941b5794e.png", "./lovable-uploads/8f16d63e-5feb-44b5-8abb-d9a5ac313107.png", "./lovable-uploads/fdd964b4-f804-44d6-b138-50d598f92de7.png"]
       },
       fig: {
         title: "Fig Pattern",
         description: "Elegant fig patterns representing the ability to preserve and cherish life's harvest throughout the year, celebrating sustenance and enduring cultural memory.",
-        images: ["/lovable-uploads/20078dc1-20ff-4a74-b6d5-de2f15950b84.png", "/lovable-uploads/11e7bbd9-e2a8-4cc9-860d-977f5334de62.png", "/lovable-uploads/efdd933e-cb78-4801-8a08-71719358072d.png", "/lovable-uploads/3350d8b6-cf16-4ca1-a753-4bb27d847a99.png"]
+        images: ["./lovable-uploads/20078dc1-20ff-4a74-b6d5-de2f15950b84.png", "./lovable-uploads/11e7bbd9-e2a8-4cc9-860d-977f5334de62.png", "./lovable-uploads/efdd933e-cb78-4801-8a08-71719358072d.png", "./lovable-uploads/3350d8b6-cf16-4ca1-a753-4bb27d847a99.png"]
       }
     }
   }, {
@@ -77,20 +77,20 @@ const DigitalArt = () => {
     role: "Personal Digital Art & Cultural Heritage",
     description: "Personal artworks celebrating Palestinian culture, preserving memories and traditions through visual art.",
     tools: ["Adobe Photoshop", "Procreate"],
-    mainImage: "/lovable-uploads/64de7d8e-2587-4723-9e1b-66afe15b0882.png",
-    projectImages: ["/lovable-uploads/64de7d8e-2587-4723-9e1b-66afe15b0882.png", "/lovable-uploads/a2b912e3-4658-4028-9325-62e564a57e7b.png"],
+    mainImage: "./lovable-uploads/64de7d8e-2587-4723-9e1b-66afe15b0882.png",
+    projectImages: ["./lovable-uploads/64de7d8e-2587-4723-9e1b-66afe15b0882.png", "./lovable-uploads/a2b912e3-4658-4028-9325-62e564a57e7b.png"],
     tags: ["Palestinian Heritage", "Cultural Illustration", "Digital Art"],
     backgroundColor: "black",
     sections: {
       ladybug: {
         title: "Palestinian Ladybug & Jasmine",
         description: "A nostalgic childhood memory featuring the beloved ladybug among fragrant jasmine flowers",
-        images: ["/lovable-uploads/64de7d8e-2587-4723-9e1b-66afe15b0882.png"]
+        images: ["./lovable-uploads/64de7d8e-2587-4723-9e1b-66afe15b0882.png"]
       },
       kaak: {
         title: "Traditional Palestinian Ka'ak",
         description: "A tribute to the traditional Palestinian ka'ak bread, beloved staple of Palestinian breakfast culture",
-        images: ["/lovable-uploads/a2b912e3-4658-4028-9325-62e564a57e7b.png"]
+        images: ["./lovable-uploads/a2b912e3-4658-4028-9325-62e564a57e7b.png"]
       }
     }
   }, {
@@ -99,35 +99,35 @@ const DigitalArt = () => {
     role: "Brand Design & Apparel Graphics",
     description: "Vibrant brand identity and apparel graphics celebrating Palestinian heritage and cultural unity.",
     tools: ["Adobe Photoshop", "Procreate"],
-    mainImage: "/lovable-uploads/d562ebc0-7797-40b1-acaa-7b68d2a8579a.png",
+    mainImage: "./lovable-uploads/d562ebc0-7797-40b1-acaa-7b68d2a8579a.png",
     // 5th image - colorful fruit designs
-    projectImages: ["/lovable-uploads/6117cb61-2785-46a6-97c4-58712e4e7368.png",
+    projectImages: ["./lovable-uploads/6117cb61-2785-46a6-97c4-58712e4e7368.png",
     // 1st - Logo/symbol
-    "/lovable-uploads/c3759a62-4254-408c-b058-2b5e0ff1782d.png",
+    "./lovable-uploads/c3759a62-4254-408c-b058-2b5e0ff1782d.png",
     // 2nd - Traditional food designs
-    "/lovable-uploads/8b7a9a8e-de18-4251-b2a3-7f42cbd96878.png",
+    "./lovable-uploads/8b7a9a8e-de18-4251-b2a3-7f42cbd96878.png",
     // 3rd - Pomegranate peace symbol
-    "/lovable-uploads/94d3451c-d770-4ae1-b8fd-f57cfe0f59c9.png",
+    "./lovable-uploads/94d3451c-d770-4ae1-b8fd-f57cfe0f59c9.png",
     // 4th - Cultural symbols with Arabic text
-    "/lovable-uploads/8fe07427-f10f-4609-a9e7-55a2a99df93a.png",
+    "./lovable-uploads/8fe07427-f10f-4609-a9e7-55a2a99df93a.png",
     // 5th - Colorful fruit designs
-    "/lovable-uploads/3339a013-c429-4555-a514-8fa6f6b6be67.png",
+    "./lovable-uploads/3339a013-c429-4555-a514-8fa6f6b6be67.png",
     // 6th - Palestine luggage tag design
-    "/lovable-uploads/a3bc2efa-6b5f-4bdd-b986-36bddbef7aa3.png",
+    "./lovable-uploads/a3bc2efa-6b5f-4bdd-b986-36bddbef7aa3.png",
     // 7th - Watermelon phases design
-    "/lovable-uploads/a1743e00-fd2a-44a9-a511-3686b640eca3.png",
+    "./lovable-uploads/a1743e00-fd2a-44a9-a511-3686b640eca3.png",
     // 8th - Palestinian breakfast design
-    "/lovable-uploads/6a6e2390-eb8b-4e2d-afb0-24a714afa75c.png",
+    "./lovable-uploads/6a6e2390-eb8b-4e2d-afb0-24a714afa75c.png",
     // 9th - Eye design
-    "/lovable-uploads/23cc252b-67f9-4130-9c1d-2b791bfc3208.png",
+    "./lovable-uploads/23cc252b-67f9-4130-9c1d-2b791bfc3208.png",
     // 10th - Colorful grid design
-    "/lovable-uploads/cdd198ce-302c-4b93-a70d-922b9815b383.png",
+    "./lovable-uploads/cdd198ce-302c-4b93-a70d-922b9815b383.png",
     // 11th - Red watermelon "OF UNITY" t-shirt
-    "/lovable-uploads/9a3a332a-6782-4bd3-a257-a7dffc29be02.png",
+    "./lovable-uploads/9a3a332a-6782-4bd3-a257-a7dffc29be02.png",
     // 12th - Palestinian symbols and "ROOTS" t-shirts
-    "/lovable-uploads/2a563111-9c79-4c1e-9a07-5499ed432933.png",
+    "./lovable-uploads/2a563111-9c79-4c1e-9a07-5499ed432933.png",
     // 13th - Red poppy flowers t-shirt
-    "/lovable-uploads/29a9a97b-1a78-43c9-a174-e9af5df4308b.png" // 14th - Watermello logo on dark background
+    "./lovable-uploads/29a9a97b-1a78-43c9-a174-e9af5df4308b.png" // 14th - Watermello logo on dark background
     ],
     tags: ["Apparel Graphics", "Cultural Design", "Palestinian Heritage"],
     backgroundColor: "black"
@@ -137,9 +137,9 @@ const DigitalArt = () => {
     role: "Brand Illustration & T-shirt Design",
     description: "Visual identity and clothing line translating Palestinian musical heritage into contemporary wearable design.",
     tools: ["Adobe Photoshop", "Procreate"],
-    mainImage: "/lovable-uploads/0347c57d-a499-415b-a6a0-f11672b1f366.png",
+    mainImage: "./lovable-uploads/0347c57d-a499-415b-a6a0-f11672b1f366.png",
     // Canaany logo
-    projectImages: ["/lovable-uploads/bcdb17ec-88fc-4d45-a0b1-89cf4478d3fa.png", "/lovable-uploads/ab4cded8-5ecf-4bae-8ec1-933716c0a77a.png", "/lovable-uploads/3b346664-6712-488a-8237-a2e0ebf94eba.png", "/lovable-uploads/540c85d7-94ce-4679-acb4-017753b327f8.png", "/lovable-uploads/15c00b08-e2ef-4437-b57c-702923deb5f9.png", "/lovable-uploads/f4dd8d9e-d240-4099-ab55-d67fd275f9ed.png", "/lovable-uploads/f61f913c-0898-4672-9630-8fbdeb86380f.png", "/lovable-uploads/3bc6882e-deca-4110-80c1-d5985bcf83c3.png", "/lovable-uploads/dfffe914-4ae6-47eb-b5ce-73a4ef6a90d1.png", "/lovable-uploads/f66bd117-4045-4580-8147-e4fa2e3db50e.png", "/lovable-uploads/9abe607b-bc4e-454c-88cb-a65b0fda5acd.png", "/lovable-uploads/1a0acd73-1177-47ed-9006-8c51eaab69d2.png", "/lovable-uploads/27718fed-c972-48e5-9e4d-96d9691aebd2.png"],
+    projectImages: ["./lovable-uploads/bcdb17ec-88fc-4d45-a0b1-89cf4478d3fa.png", "./lovable-uploads/ab4cded8-5ecf-4bae-8ec1-933716c0a77a.png", "./lovable-uploads/3b346664-6712-488a-8237-a2e0ebf94eba.png", "./lovable-uploads/540c85d7-94ce-4679-acb4-017753b327f8.png", "./lovable-uploads/15c00b08-e2ef-4437-b57c-702923deb5f9.png", "./lovable-uploads/f4dd8d9e-d240-4099-ab55-d67fd275f9ed.png", "./lovable-uploads/f61f913c-0898-4672-9630-8fbdeb86380f.png", "./lovable-uploads/3bc6882e-deca-4110-80c1-d5985bcf83c3.png", "./lovable-uploads/dfffe914-4ae6-47eb-b5ce-73a4ef6a90d1.png", "./lovable-uploads/f66bd117-4045-4580-8147-e4fa2e3db50e.png", "./lovable-uploads/9abe607b-bc4e-454c-88cb-a65b0fda5acd.png", "./lovable-uploads/1a0acd73-1177-47ed-9006-8c51eaab69d2.png", "./lovable-uploads/27718fed-c972-48e5-9e4d-96d9691aebd2.png"],
     tags: ["Illustration", "T-shirt Design", "Cultural Design"]
   }];
   const openProject = (projectId: number) => {

@@ -45,8 +45,8 @@ const Portfolio = () => {
     role: "Brand Identity & Visual Design",
     description: "Developed a comprehensive brand identity for Mobarmij, a mobile and web developer, that combines clean typography, a versatile color palette, and modular logo design inspired by coding structures. The project tackled the challenge of creating a modern, trustworthy visual system adaptable across digital platforms while communicating both technical expertise and creative innovation. The resulting identity successfully positions Mobarmij as a forward-thinking developer with recognizable, consistent branding across all touchpoints.",
     tools: ["Adobe Illustrator", "Adobe Photoshop", "Figma"],
-    mainImage: "/lovable-uploads/783af6af-4116-48a1-9877-84120d9f67b9.png",
-    projectImages: ["/lovable-uploads/508d37d6-8c3a-460b-bbbe-c041dad354ba.png", "/lovable-uploads/7617fb6e-02ac-4907-8ffd-d7985200e06d.png", "/lovable-uploads/52487de8-1e94-40d0-bbf0-0cc7dbda63f2.png", "/lovable-uploads/8433a5c5-68d2-48f0-a8af-1fa1c79917e0.png", "/lovable-uploads/efc93488-a9ad-4c06-b721-e6d61b4691d4.png", "/lovable-uploads/b54ae3fd-d1c8-44e6-a122-1dbbc9510396.png", "/lovable-uploads/a0bafa56-1bf5-4af8-b144-af2a0a152716.png", "/lovable-uploads/2efcaecd-b4b1-4ebf-bfc7-b5cdd38fe45c.png"],
+    mainImage: "./portfolio/mobarmij/main.png",
+    projectImages: ["./portfolio/mobarmij/image-1.png", "./portfolio/mobarmij/image-2.png", "./portfolio/mobarmij/image-3.png", "./portfolio/mobarmij/image-4.png", "./portfolio/mobarmij/image-5.png", "./portfolio/mobarmij/image-6.png", "./portfolio/mobarmij/image-7.png", "./portfolio/mobarmij/image-8.png"],
     tags: ["Brand Identity", "Logo Design", "Typography"],
     backgroundColor: "bg-black/95"
   }, {
@@ -56,8 +56,8 @@ const Portfolio = () => {
     role: "Brand Identity Design",
     description: "Created a complete visual identity for Miles and Flies, a youth-focused travel agency, addressing the challenge of appealing to young travelers while maintaining professional credibility. The solution features dynamic branding built around youthful colors, clean typography, and playful design elements that capture travel excitement. The carefully balanced palette combines vibrancy with professionalism, encouraging exploration while establishing trust. This identity successfully positions Miles and Flies as both adventurous and reliable—perfect for youth adventure.",
     tools: ["Adobe Illustrator", "Adobe Photoshop", "Adobe InDesign"],
-    mainImage: "/lovable-uploads/b3a3f4d6-de52-4a9a-90ae-152d3e962e2c.png",
-    projectImages: ["/lovable-uploads/c5ed3b47-117e-4159-8f95-408420a990e4.png", "/lovable-uploads/e13a15de-c1c2-40bc-ae21-67fbeb794ec9.png", "/lovable-uploads/93ff1fc4-caa3-4896-bca5-f34be1ff90d5.png", "/lovable-uploads/b92a2235-b0d1-43b2-8e66-390bcb22653d.png", "/lovable-uploads/716a2495-6e67-47c8-b8a7-8e1ec3c262f0.png", "/lovable-uploads/71d4c6de-939f-41dd-949b-84efaf6a1a04.png", "/lovable-uploads/3252ca12-d952-4783-87b0-9d542d817ead.png", "/lovable-uploads/c4ce995c-0ee8-46a5-b084-e824825ca2fd.png", "/lovable-uploads/51e163da-6d14-4a1a-b9bd-cc986e6505a1.png"],
+    mainImage: "./portfolio/miles-and-flies/main.png",
+    projectImages: ["./portfolio/miles-and-flies/image-1.png", "./portfolio/miles-and-flies/image-2.png", "./portfolio/miles-and-flies/image-3.png", "./portfolio/miles-and-flies/image-4.png", "./portfolio/miles-and-flies/image-5.png", "./portfolio/miles-and-flies/image-6.png", "./portfolio/miles-and-flies/image-7.png", "./portfolio/miles-and-flies/image-8.png", "./portfolio/miles-and-flies/image-9.png"],
     tags: ["Branding", "Identity", "Travel"],
     backgroundColor: "bg-black/95"
   }, {
@@ -67,8 +67,8 @@ const Portfolio = () => {
     role: "Social Media & Character Design",
     description: "Designed engaging visual content and character illustrations for Oyoun Media, an advertising agency seeking to enhance their social media presence and client campaigns. The project required creating distinctive character designs and social media templates that would boost brand engagement while maintaining consistency with existing brand guidelines. The solution blended creativity with strategic communication, developing original character illustrations and templates that resonate with target audiences. The result was a 40% increase in social media engagement and a recognizable visual style that strengthened Oyoun Media's market position.",
     tools: ["Adobe Illustrator", "Adobe Photoshop", "Procreate"],
-    mainImage: "/lovable-uploads/2a4b0205-5863-464b-bb92-3adf6969dc59.png",
-    projectImages: ["/lovable-uploads/44a7660f-3a46-490f-a3ef-067883b96e69.png", "/lovable-uploads/58a42ca2-fbf5-48ab-8780-a267e5b4df42.png", "/lovable-uploads/2b861002-e24f-40b9-9234-9b92c054ff6e.png", "/lovable-uploads/608e85a4-36d8-4ce4-bcbf-d0a2b6c81e27.png", "/lovable-uploads/781d23d5-65ac-48f6-a8ed-6cccc2f716ef.png"],
+    mainImage: "./portfolio/oyoun-media/main.png",
+    projectImages: ["./portfolio/oyoun-media/image-1.png", "./portfolio/oyoun-media/image-2.png", "./portfolio/oyoun-media/image-3.png", "./portfolio/oyoun-media/image-4.png", "./portfolio/oyoun-media/image-5.png"],
     tags: ["Social Media", "Character Design", "Advertising"],
     backgroundColor: "bg-black/95"
   }, {
@@ -78,8 +78,8 @@ const Portfolio = () => {
     role: "Poster Design & Visual Communication",
     description: "Created impactful visual communication for Palestina Reaction, a solidarity event for Palestine in Barcelona, requiring powerful poster design that would effectively communicate solidarity while remaining culturally sensitive and visually striking. The solution features bold typographic design with a digitally illustrated pomegranate as the central element, extended across print materials and merchandise as a symbol of solidarity.",
     tools: ["Adobe Illustrator", "Adobe Photoshop", "Procreate"],
-    mainImage: "/lovable-uploads/47c84a66-fdee-4f00-bcb4-0ce2aba225cc.png",
-    projectImages: ["/lovable-uploads/47c84a66-fdee-4f00-bcb4-0ce2aba225cc.png", "/lovable-uploads/b6e51655-3e5e-49c2-b6d2-65732bf9b7cd.png", "/lovable-uploads/5e983c29-2194-43b3-95ad-3a1b62011d46.png", "/lovable-uploads/2288441b-fd0f-4e05-8c36-d4f15f24d271.png", "/lovable-uploads/93a61cb6-970e-4d99-aa11-64ae681e3371.png"],
+    mainImage: "./portfolio/palestina-reaction/main.png",
+    projectImages: ["./portfolio/palestina-reaction/image-1.png", "./portfolio/palestina-reaction/image-2.png", "./portfolio/palestina-reaction/image-3.png", "./portfolio/palestina-reaction/image-4.png", "./portfolio/palestina-reaction/image-5.png"],
     tags: ["Poster Design", "Event Design", "Visual Communication"],
     backgroundColor: "bg-black/95"
   }];

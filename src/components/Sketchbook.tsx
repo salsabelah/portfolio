@@ -27,42 +27,42 @@ const Sketchbook = () => {
   const sketches = [{
     id: 1,
     title: "Unspoken",
-    image: "/lovable-uploads/8b8a1feb-c551-4f87-9663-69588859b072.png", 
+    image: "./lovable-uploads/8b8a1feb-c551-4f87-9663-69588859b072.png", 
     description: "Words that live in silence"
   }, {
     id: 3,
     title: "French Woman",
-    image: "/lovable-uploads/74f6a855-a597-417f-9154-bf60a05a79fb.png",
+    image: "./lovable-uploads/74f6a855-a597-417f-9154-bf60a05a79fb.png",
     description: "Timeless elegance and grace"
   }, {
     id: 2,
     title: "A Kind Soul", 
-    image: "/lovable-uploads/20a73e37-aeb5-4798-8b6d-fbf453885ebc.png",
+    image: "./lovable-uploads/20a73e37-aeb5-4798-8b6d-fbf453885ebc.png",
     description: "Gentle warmth and compassion"
   }, {
     id: 4,
     title: "Vibing",
-    image: "/lovable-uploads/fa40b7a2-bac0-44ea-87e7-7c8ddf06739c.png",
+    image: "./lovable-uploads/fa40b7a2-bac0-44ea-87e7-7c8ddf06739c.png",
     description: "Pure energy and good feels"
   }, {
     id: 5,
     title: "Nostalgia",
-    image: "/lovable-uploads/1fb9111f-d5f2-4f2c-a231-9c5b27e58d0a.png",
+    image: "./lovable-uploads/1fb9111f-d5f2-4f2c-a231-9c5b27e58d0a.png",
     description: "Sweet longing for yesterday"
   }, {
     id: 7,
     title: "Mind & Heart Unity",
-    image: "/lovable-uploads/30b1029f-92e8-42fa-a017-d96bfe0cbbb5.png",
+    image: "./lovable-uploads/30b1029f-92e8-42fa-a017-d96bfe0cbbb5.png",
     description: "Perfect balance between logic and emotion"
   }, {
     id: 6,
     title: "My Dad's Jacket",
-    image: "/lovable-uploads/c353387f-cc49-4963-a8e2-68c9ac48140f.png",
+    image: "./lovable-uploads/c353387f-cc49-4963-a8e2-68c9ac48140f.png",
     description: "Comfort and protective love"
   }, {
     id: 8,
     title: "Friendship & Solidarity",
-    image: "/lovable-uploads/75359ae7-09cb-4c03-81f4-c25da1a50c38.png",
+    image: "./lovable-uploads/75359ae7-09cb-4c03-81f4-c25da1a50c38.png",
     description: "Unbreakable bonds and support"
   }];
 

@@ -36,7 +36,7 @@ const Header = () => {
           <div className="flex items-center">
             <button onClick={scrollToTop} className="transition-opacity duration-300 hover:opacity-80">
               <img 
-                src="/lovable-uploads/934da0f6-810a-4c6e-9b7a-cae0a7c63247.png" 
+                src="./lovable-uploads/934da0f6-810a-4c6e-9b7a-cae0a7c63247.png" 
                 alt="SALABELAH Logo" 
                 className="h-12 w-auto"
               />

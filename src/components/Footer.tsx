@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-12 mb-12">
           <div>
             <img 
-              src="/lovable-uploads/934da0f6-810a-4c6e-9b7a-cae0a7c63247.png" 
+              src="./lovable-uploads/934da0f6-810a-4c6e-9b7a-cae0a7c63247.png" 
               alt="SALABELAH Logo" 
               className="h-6 w-auto mb-6 brightness-0 invert"
             />

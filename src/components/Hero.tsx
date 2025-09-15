@@ -1,6 +1,6 @@
 
 import React, { useEffect, useState } from 'react';
-const heroImage = '/lovable-uploads/f9856ac9-a69c-4399-82b0-bc62a8e264c5.png';
+const heroImage = './lovable-uploads/f9856ac9-a69c-4399-82b0-bc62a8e264c5.png';
 
 const Hero = () => {
   const [scrollY, setScrollY] = useState(0);
