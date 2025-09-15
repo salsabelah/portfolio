@@ -46,7 +46,7 @@ const About = () => {
 
           <div className="text-center mt-16">
             <a 
-              href="/salsabelah-cv.pdf" 
+              href="./salsabelah-cv.pdf" 
               download="Salsabelah_Anabtawi_CV.pdf"
               className="bg-purple-400 text-white px-12 py-6 rounded-full hover:bg-purple-500 transition-all duration-700 transform hover:scale-105 font-light text-lg flex items-center gap-4 mx-auto shadow-xl hover:shadow-2xl"
             >
