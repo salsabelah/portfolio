@@ -27,19 +27,19 @@ const Footer = () => {
           <div>
             <h4 className="text-xs uppercase tracking-[0.15em] mb-6 font-light">Services</h4>
             <ul className="space-y-3 text-slate-400 font-light text-sm">
-              <li><a href="#" className="hover:text-white transition-colors duration-300">Graphic Design</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-300">Illustration</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-300">Web Design</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-300">Motion Design</a></li>
+              <li><a href="" className="hover:text-white transition-colors duration-300">Graphic Design</a></li>
+              <li><a href="" className="hover:text-white transition-colors duration-300">Illustration</a></li>
+              <li><a href="" className="hover:text-white transition-colors duration-300">Web Design</a></li>
+              <li><a href="" className="hover:text-white transition-colors duration-300">Motion Design</a></li>
             </ul>
           </div>
           
           <div>
             <h4 className="text-xs uppercase tracking-[0.15em] mb-6 font-light">Links</h4>
             <ul className="space-y-3 text-slate-400 font-light text-sm">
-              <li><a href="#portfolio" className="hover:text-white transition-colors duration-300">Work</a></li>
-              <li><a href="#contact" className="hover:text-white transition-colors duration-300">Contact</a></li>
-              <li><a href="#" className="hover:text-white transition-colors duration-300">About</a></li>
+              <li><a href="" className="hover:text-white transition-colors duration-300">Work</a></li>
+              <li><a href="" className="hover:text-white transition-colors duration-300">Contact</a></li>
+              <li><a href="" className="hover:text-white transition-colors duration-300">About</a></li>
             </ul>
           </div>
         </div>

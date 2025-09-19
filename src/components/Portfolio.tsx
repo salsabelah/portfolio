@@ -293,7 +293,7 @@ const Portfolio = () => {
                     onMouseLeave={(e) => handleMouseLeave(e, project.id)}
                   >
                     <img 
-                      src={project.mainImage} 
+                      src={currentImage} 
                       alt={project.title} 
                       className="w-full h-80 lg:h-96 object-cover transition-transform duration-700 group-hover:scale-105 rounded-2xl pointer-events-none" 
                       draggable={false}
